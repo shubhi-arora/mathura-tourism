@@ -7,6 +7,9 @@ background-color: red;
 body{
   background-color: #FBF3E4;
 }
+#wrapper{
+  text-align: center;
+}
 .center-text{
   text-align: center;
   /* color:magenta; */
