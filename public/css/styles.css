@@ -11,7 +11,11 @@ body{
   text-align: center;
   /* color:magenta; */
   /* color: #AEEFEC; */
-  color: #51C4D3;
+  /* color: #51C4D3; */
+  /* color: #D83A56; */
+  /* color:#3DB2FF; */
+  /* color:#F90716; */
+  color:#05DFD7;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -224,6 +228,20 @@ footer{
   color:#297F87;
 }
 @media (max-width:1250px) {
+  .center-text{
+    text-align: center;
+    /* color:magenta; */
+    /* color: #AEEFEC; */
+    /* color: #51C4D3; */
+    color:#05DFD7;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -25%);
+    font-size: 5rem;
+
+
+  }
   .travel-div{
 
   display: inline;
